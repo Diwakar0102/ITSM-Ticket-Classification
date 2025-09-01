@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+Dcision tree
+random forest
+tensorflow
+xg boost
+bagging
